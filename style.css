@@ -1,0 +1,124 @@
+            body {
+                background-color: #110B10;
+                font-family: Arial, sans-serif;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .article {
+                margin: 0 auto;
+                width: 1500px;
+            }
+            
+            .header {
+                margin: 10px;
+                width: 1480px;
+                height: 80px;
+                background-color: #ACB0BD;
+                text-align: center;
+                border-radius: 25px;
+            }
+            
+            .menu {
+                margin: 10px;
+                width: 280px;
+                height: 740px;
+                background-color: #ACB0BD;
+                text-align: center;
+                float: left;
+                border-radius: 25px;
+            }
+            
+            .menu2 {
+                margin: 10px;
+                width: 280px;
+                height: 740px;
+                background-color: #ACB0BD;
+                text-align: center;
+                float: left;
+                border-radius: 25px;
+            }
+            
+            .tekst {
+                margin: 10px;
+                width: 880px;
+                height: 740px;
+                background-color: #ACB0BD;
+                text-align: center;
+                float: left;
+                border-radius: 25px;
+            }
+            
+            .foot {
+                margin: 10px;
+                width: 1480px;
+                height: 30px;
+                background-color: #ACB0BD;
+                text-align: center;
+                padding-top: 10px;
+                float: left;
+                border-radius: 25px;
+                padding-top: 12px;
+            }
+            
+            #title {
+                font-size: 50pt;
+                font-weight: bold;
+                color: black;
+                font-family: Arial;
+            }
+            
+            .tile {
+                margin-bottom: 40px;
+                margin-left: 10px;
+                margin-top: 40px;
+                width: 260px;
+                height: 50px;
+                background-color: #D0CDD7;
+                text-align: center;
+                padding-top: 20px;
+                border-radius: 25px;
+                font-size: 17pt;
+            }
+            
+            .tile_title {
+                margin-bottom: 24px;
+                margin-left: 10px;
+                margin-top: 15px;
+                width: 260px;
+                height: 50px;
+                background-color: #D0CDD7;
+                text-align: center;
+                padding-top: 5px;
+                border-radius: 25px;
+                font-size: 30pt;
+            }
+            
+            .tile:hover {
+                background-color: #D9DBF1;
+            }
+            
+            .tilelink {
+                margin-top: 40px;
+                margin-bottom: 40px;
+                color: black;
+                text-decoration: none;
+                display: block;
+                width: 260px;
+                height: 50px;
+            }
+            
+            #opinion {
+                width: 300px;
+                height: 150px;
+            }
+            
+            .paragraph {
+                height: 450px;
+            }
+            
+            .gif {
+                height: 249px;
+                width: 212px;
+                margin-left: 334px;
+            }
